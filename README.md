@@ -1,7 +1,7 @@
 # CCs
 Competence Centres Network
 
-![](./attachments/header.png)
+![test](./attachments/header.png)
 
 
 # Competence Centres Network - Templates Repository
