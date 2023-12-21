@@ -32,9 +32,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+
       # Copy the entire repository content (excluding _site) to the deployment directory
       - name: Copy repository content
-        run: cp -R !( _site ) $GITHUB_WORKSPACE/_site
+        run: find . -path "./_site" -prune -o -exec cp -R {} $GITHUB_WORKSPACE/_site \;
+
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
