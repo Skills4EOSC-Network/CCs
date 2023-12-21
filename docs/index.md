@@ -27,25 +27,14 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 
 # CC_Node_Name
 
-# Type (Course/Workshop/Webinar)
-
-## Date/Time: when it will be offered
-
-- put available from date if it is self-paced
-
-## Location
-
-- where it will be available
-- physical location
-- URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
 
 ## CC Description
 
 - what is the main goal/purpose of this CC
 
-## Target audience: 
+## Individuals and Institutions
 
-## Primary Language: English
+## Target audience: 
 
 
 ## Resources
@@ -77,14 +66,8 @@ Keywords or tags used to describe the CC.
 
 - location of available resources , e.g. trainings
 
-## Certification Information
+## EOSC membership type? (Mandated/Observer/)
 
-- if any
-
-## Author(s)
-
-- List of people involved in preparing the training
-- format: Name Surname, comma separated
 
 # Main contacts(s)
 
@@ -112,3 +95,5 @@ Skills4EOSC is dedicated to ensuring that all produced learning materials are ac
 This site ahs been developed by following the [Skills4EOSC project](https:www.skills4eosc.eu).
 
 ![Skills4EOSC logo](./attachments/skills4eosc.png)
+
+### How to get involved?
