@@ -1,4 +1,10 @@
 site_name: Skills4EOSC CCs Network
-docs: CCs
+docs_dir: docs
 theme:
   name: material
+  palette:
+    primary: custom
+  logo: attachments/logo-white.png
+  #custom_dir: resources/overrides
+  features:
+    - navigation.footer
