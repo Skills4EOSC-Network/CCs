@@ -9,6 +9,6 @@ theme:
   features:
     - navigation.footer
 plugins:
-- tags
-- mike:
-  version_selector: true
+  - tags
+  - mike:
+     version_selector: true
