@@ -26,7 +26,7 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 
 
 # CC_Node_Name
-![](./attachments/header.png)
+![](../attachments/header.png)
 
 
 ## CC Description
