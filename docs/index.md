@@ -24,10 +24,8 @@ Insitution: "List of Institutions part of the CC"
 expertiseLevel: "Target skill level in the topic being taught; example values include: beginner, intermediate, advanced"
 ---
 
-
-# CC_Node_Name
 ![](../attachments/header.png)
-
+# CC_Node_Name
 
 ## CC Description
 
