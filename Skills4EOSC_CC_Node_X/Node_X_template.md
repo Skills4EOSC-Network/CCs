@@ -1,6 +1,6 @@
 # Skills4EOSC Competence Centre Name
 
-![Node Logo](path/to/icdi_logo.png)
+![Node Logo](path/to/org_logo.png)
 
 ## Link and Contact
 - **Node Acronym**
@@ -16,7 +16,7 @@ short description
 - 2023
 
 ## Organization/Unit Structure
-ICDI is organized as a network of experts, initiatives, and research infrastructures ......
+<Organization-name> is organized as a network of experts, initiatives, and research infrastructures ......
 
 ## Competences
 The competences made available within the <Node-name> are:
@@ -37,7 +37,7 @@ list all individuals and institutions member part of the CC
 - Catalogue management and editing
 
 ## Resources
-Articles, presentations on the [Zenodo ICDI page](https://zenodo.org/node-name)
+Articles, presentations on the [Zenodo <Org> page](https://zenodo.org/node-name)
 
 ## Operational Tools
 - Dedicated workplace
